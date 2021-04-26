@@ -1,0 +1,10 @@
+*{
+    box-sizing:border-box;
+
+}
+section {
+    display: flex;
+    justify-content: center;
+
+    padding: 2rem 2rem;
+}
